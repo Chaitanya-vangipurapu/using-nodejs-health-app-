@@ -1,5 +1,5 @@
 # Chaitanya Vangipurapu
-
+### a frontend app in reactJs using routes,axios libraryand public apis
 ## Screenshots
 
 ### Hero Section
@@ -38,19 +38,16 @@
 
 ![Health-Plus Image-9](https://i.postimg.cc/2SxLtBk8/Health-Plus-Image9.png)
 
-## Deployment
-
-The website is deployed using GitHub Pages and can be accessed at [https://alkaison.github.io/Health-Plus/](https://alkaison.github.io/Health-Plus/).
 
 ## Getting Started
 
 To run the project locally:
 
-1. Clone this repository: `git clone https://github.com/Alkaison/Health-Plus.git`
-2. Navigate to the project directory: `cd Health-Plus`
+1. Clone this repository: `git clone https://Chaitanya-vangipurapu/using-nodejs-health-app-`
+2. Navigate to the project directory: `cd using-nodejs-health-app-`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
-5. Open your browser and visit: `http://localhost:3000/Health-Plus`
+5. Open your browser and visit: `http://localhost:3000/using-nodejs-health-app-`
 
 
 
